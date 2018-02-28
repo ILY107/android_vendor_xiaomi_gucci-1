@@ -240,6 +240,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/gucci/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/xiaomi/gucci/proprietary/etc/data/dsi_config.xml:system/etc/data/dsi_config.xml \
     vendor/xiaomi/gucci/proprietary/etc/data/netmgr_config.xml:system/etc/data/netmgr_config.xml \
+    vendor/xiaomi/gucci/proprietary/etc/data/qmi_config.xml:system/etc/data/qmi_config.xml \
     vendor/xiaomi/gucci/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
     vendor/xiaomi/gucci/proprietary/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
     vendor/xiaomi/gucci/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
